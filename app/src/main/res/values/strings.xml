@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="previous">Précédent</string>
+    <string name="next">Suivant</string>
+    <string name="title_1">Nuit étoilée sur la montagne</string>
+    <string name="artist_1">Vincent (2023)</string>
+    <string name="title_2">Coucher de soleil</string>
+    <string name="artist_2">Claude (2024)</string>
+    <string name="title_3">Composition abstraite</string>
+    <string name="artist_3">Pablo (2025)</string>
+</resources>
